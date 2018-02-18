@@ -8,7 +8,7 @@ e.g. a good script name would be `ubuntu/install_terraform_0.10.2.sh` and not `i
 
 In other words, only change scripts if you find bugs in them, not to update versions. For new versions, create new scripts.
 
-Access these convenience scripts through: `https://raw.githubusercontent.com/gobinaris/711/master/[FILE PATH]`
+Access these convenience scripts through: `https://raw.githubusercontent.com/binaris/711/master/[FILE PATH]`
 
 
 
